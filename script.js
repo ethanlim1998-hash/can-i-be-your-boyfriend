@@ -27,7 +27,7 @@ noButton.addEventListener("click", function () {
 });
 
 function handleYesClick() {
-  titleElement.innerHTML = "Yayyy!! 🥹";
+  titleElement.innerHTML = "Thank you for saying yes. I will thank God for you every day. I love you and I can't wait to start this journey to forever with you 🥹";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
 }
