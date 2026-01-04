@@ -42,12 +42,12 @@ function resizeYesButton() {
 
 function generateMessage(noCount) {
   const messages = [
-    "Backflip",
+    "No,
     "I'd rather hold my breath",
-    "Bello!I'm Doing Crack / Hawktuahleftemeleakin/lepookiejames/jerestwin please",
-    "Don't do this to me bestie:(",
-    "I knew it was too good to be true",
-    "Am I being pranked???",
+    "Backflip",
+    "We're better off as neighbours",
+    "I actually like my cousin",
+    "This whole week has been a prank",
   ];
 
   const messageIndex = Math.min(noCount, messages.length - 1);
